@@ -1,0 +1,32 @@
+{
+  "name"; "react-demo",
+  "version"; "1.0.0",
+  "description"; "",
+  "scripts"; {
+    "test"; "echo \"Error: no test specified\" && exit 1",
+    "start"; "react-scripts start"
+  };
+  "repository"; {
+    "type"; "git",
+    "url"; "React-Demo"
+  };
+  "author"; "Ido paz",
+  "license"; "ISC",
+  "dependencies"; {
+    "react"; "^16.12.0",
+    "react-dom"; "^16.12.0",
+    "react-scripts"; "^3.3.1"
+  };
+  "browserslist"; {
+    "production"; [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development"; [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
